@@ -1,6 +1,18 @@
 # Exploring Brazilian Public Capital Market Data
 
-Objective: Development of creative analysis and exploration of capital markets and alternative databases.
+Hi, thanks for visiting this repository. The main goal here is to develop creative analysis and exploration of capital markets and alternative publicly available databases using Python notebooks.
+
+
+## Data scraping
+
+1 - [Brazilians companies sectors by ticker from B3](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_companies_sectors/get_br_companies_sectors.ipynb)
+
+2 - [Brazilians mutual funds cadastral informations from CVM](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/CVM_funds_cadastral_info/CVM_funds_cadastral_info.ipynb)
+
+3 - [Brazilians mutual funds holdings from CVM](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/CVM_funds_holdings/CVM_funds_holdings.ipynb)
+
+
+## Data Analysis
 
 1 - [Brazilians Tickers prices monitoring](https://github.com/Lucasantos77/capital_market_explorer/blob/master/B3_tickers_monitor/02_PricesMonitor_BrazilStockExchange.ipynb)
 
