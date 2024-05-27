@@ -11,6 +11,8 @@ Hi, thanks for visiting this repository. The main goal here is to develop creati
 
 3 - [Brazilians mutual funds holdings from CVM](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/CVM_funds_holdings/CVM_funds_holdings.ipynb)
 
+4 - [Brazilians closed trade by trade data from B3]
+(https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_trade_by_trade/B3_trade_by_trade.ipynb)
 
 ## Data Analysis
 
