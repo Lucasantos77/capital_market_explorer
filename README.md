@@ -14,7 +14,7 @@ Hi, thanks for visiting this repository. The main goal here is to develop creati
 4 - [Brazilians closed trade by trade data from B3](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_trade_by_trade/B3_trade_by_trade.ipynb)
 
 
-5 - [Brasilians derivative open positions from B3] (https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_Derivative_open_position/B3_Derivative_open_position.ipynb)
+5 - [Brazilians listed derivatives open positions from B3](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_Derivative_open_position/B3_Derivative_open_position.ipynb)
 
 
 ## Data Analysis
