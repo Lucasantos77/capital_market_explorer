@@ -1,6 +1,6 @@
 # Exploring Brazilian Public Capital Market Data
 
-Hi, thanks for visiting this repository. The main goal here is to develop creative analysis and exploration of capital markets and alternative publicly available databases using Python notebooks.
+##### Hi, thanks for visiting this repository. The main goal here is to develop creative analysis and exploration of capital markets and alternative publicly available databases using Python notebooks.
 
 
 ## Data scraping
