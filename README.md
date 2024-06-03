@@ -5,7 +5,7 @@
 
 ## Data scraping
 
-	In this section, all data scraping notebooks used to extract financial public information from Brazilian websites are presented. The data is accessed using the Python requests library or other methods and is then cleaned primarily through transformations using Pandas DataFrames. Finally, the data is saved in a local SQLite database, making it ready for further analysis using SQL queries.
+###### In this section, all data scraping notebooks used to extract financial public information from Brazilian websites are presented. The data is accessed using the Python requests library or other methods and is then cleaned primarily through transformations using Pandas DataFrames. Finally, the data is saved in a local SQLite database, making it ready for further analysis using SQL queries.
 
 1 - [Companies sectors by ticker from B3](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_companies_sectors/get_br_companies_sectors.ipynb)
 
