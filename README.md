@@ -5,16 +5,20 @@ Hi, thanks for visiting this repository. The main goal here is to develop creati
 
 ## Data scraping
 
-1 - [Brazilians companies sectors by ticker from B3](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_companies_sectors/get_br_companies_sectors.ipynb)
+#### In this section, all data scraping notebooks used to extract financial public information from Brazilian websites are presented. The data is accessed using the Python requests library or other methods and is then cleaned primarily through transformations using Pandas DataFrames. Finally, the data is saved in a local SQLite database, making it ready for further analysis using SQL queries.
 
-2 - [Brazilians mutual funds cadastral informations from CVM](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/CVM_funds_cadastral_info/CVM_funds_cadastral_info.ipynb)
+1 - [Companies sectors by ticker from B3](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_companies_sectors/get_br_companies_sectors.ipynb)
 
-3 - [Brazilians mutual funds holdings from CVM](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/CVM_funds_holdings/CVM_funds_holdings.ipynb)
+2 - [Mutual funds cadastral informations from CVM](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/CVM_funds_cadastral_info/CVM_funds_cadastral_info.ipynb)
 
-4 - [Brazilians closed trade by trade data from B3](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_trade_by_trade/B3_trade_by_trade.ipynb)
+3 - [Mutual funds holdings from CVM](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/CVM_funds_holdings/CVM_funds_holdings.ipynb)
+
+4 - [Closed trade by trade data from B3](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_trade_by_trade/B3_trade_by_trade.ipynb)
 
 
-5 - [Brazilians listed derivatives open positions from B3](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_Derivative_open_position/B3_Derivative_open_position.ipynb)
+5 - [Listed derivatives open positions from B3](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_Derivative_open_position/B3_Derivative_open_position.ipynb)
+
+6 - [Securitie list register from B3](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_securities_register/B3_securities_register.ipynb)
 
 
 ## Data Analysis
