@@ -20,9 +20,9 @@
 
 6 - [Securitie list register from B3](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_securities_register/B3_securities_register.ipynb)
 
-7 - ['SELIC: Risk free rate from Central Bank'](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/BACEN_risk_free_rate/BACEN_risk_free_rate.ipynb)
+7 - [SELIC: Risk free rate from Central Bank](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/BACEN_risk_free_rate/BACEN_risk_free_rate.ipynb)
 
-8 - ['IPCA and others inflations rates from IBGE']https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/IBGE_inflation_rates/IBGE_inflation_rate_IPCA.ipynb 
+8 - [IPCA and others inflations rates from IBGE](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/IBGE_inflation_rates/IBGE_inflation_rate_IPCA.ipynb)
 
 
 ## Data Analysis
