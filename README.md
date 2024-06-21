@@ -24,6 +24,9 @@
 
 8 - [IPCA and others inflations rates from IBGE](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/IBGE_inflation_rates/IBGE_inflation_rate_IPCA.ipynb)
 
+9 - [Securities Lending Open Positions](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_Daily_market_bulletin/B3_securitie_lending_open_positions.ipynb)
+
+
 
 ## Data Analysis
 
