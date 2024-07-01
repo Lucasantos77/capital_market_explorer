@@ -29,7 +29,9 @@
 10 - [Historical prices from B3](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_historical_quotes/B3_historical_quotes.ipynb)
 
 
-## Data Analysis
+## Data Analytics 
+
+##### This section is dedicated to the study of capital market data, aiming to better understand the raw data collected and to develop insights from the databases.
 
 1 - [Brazilians Tickers prices monitoring](https://github.com/Lucasantos77/capital_market_explorer/blob/master/B3_tickers_monitor/02_PricesMonitor_BrazilStockExchange.ipynb)
 
