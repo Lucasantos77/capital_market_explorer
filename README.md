@@ -41,4 +41,4 @@
 
 ##### This section is dedicated to creating backtests and studying investment strategies.
 
-1 - [IBrX100 Momentum and Low Volatility backtesting]https://github.com/Lucasantos77/capital_market_explorer/blob/master/backtesting/Multfactor_Momentum_LowVol/Momentum_LowVolatility_12_meses_IBRX100.ipynb
+1 - [IBrX100 Momentum and Low Volatility backtesting](https://github.com/Lucasantos77/capital_market_explorer/blob/master/backtesting/Multfactor_Momentum_LowVol/Momentum_LowVolatility_12_meses_IBRX100.ipynb)
