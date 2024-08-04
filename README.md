@@ -36,3 +36,9 @@
 1 - [Brazilians Tickers prices monitoring](https://github.com/Lucasantos77/capital_market_explorer/blob/master/B3_tickers_monitor/02_PricesMonitor_BrazilStockExchange.ipynb)
 
 2 - [Brazilians funds holdings analysis](https://github.com/Lucasantos77/capital_market_explorer/blob/master/CVM_funds_analysis/CVM_portifolio_funds_discovery.ipynb)
+
+## Backtesting and strategies
+
+##### This section is dedicated to creating backtests and studying investment strategies.
+
+1 - [IBrX100 Momentum and Low Volatility backtesting]https://github.com/Lucasantos77/capital_market_explorer/blob/master/backtesting/Multfactor_Momentum_LowVol/Momentum_LowVolatility_12_meses_IBRX100.ipynb
