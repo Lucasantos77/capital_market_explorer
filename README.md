@@ -33,9 +33,11 @@
 
 ##### This section is dedicated to the study of capital market data, aiming to better understand the raw data collected and to develop insights from the databases.
 
-1 - [Brazilians Tickers prices monitoring](https://github.com/Lucasantos77/capital_market_explorer/blob/master/B3_tickers_monitor/02_PricesMonitor_BrazilStockExchange.ipynb)
+1 - [Brazilians Tickers prices monitoring](https://github.com/Lucasantos77/capital_market_explorer/blob/master/analytics/B3_tickers_monitor/PricesMonitor_BrazilStockExchange.ipynb)
 
-2 - [Brazilians funds holdings analysis](https://github.com/Lucasantos77/capital_market_explorer/blob/master/CVM_funds_analysis/CVM_portifolio_funds_discovery.ipynb)
+2 - [Brazilians funds holdings analysis](https://github.com/Lucasantos77/capital_market_explorer/blob/master/analytics/CVM_funds_analysis/CVM_portifolio_funds_discovery.ipynb)
+
+3 - [Studying the LVOL11 Nubank ETF](https://github.com/Lucasantos77/capital_market_explorer/blob/master/analytics/ETF_LVOL11_methodology/ETF_LVOL11_methodology.ipynb)
 
 ## Backtesting and strategies
 
