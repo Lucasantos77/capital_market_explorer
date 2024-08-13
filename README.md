@@ -26,7 +26,9 @@
 
 9 - [Securities Lending Open Positions](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_Daily_market_bulletin/B3_securitie_lending_open_positions.ipynb)
 
-10 - [Historical prices from B3](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_historical_quotes/B3_historical_quotes.ipynb)
+10 - [Securities Lending trade by trade](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_Daily_market_bulletin/B3_securitie_lending_trade_by_trade.ipynb)
+
+11 - [Historical prices from B3](https://github.com/Lucasantos77/capital_market_explorer/blob/master/data_scraping/B3_historical_quotes/B3_historical_quotes.ipynb)
 
 
 ## Data Analytics 
