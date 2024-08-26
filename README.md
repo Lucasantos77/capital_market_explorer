@@ -46,3 +46,5 @@
 ##### This section is dedicated to creating backtests and studying investment strategies.
 
 1 - [IBrX100 Momentum and Low Volatility backtesting](https://github.com/Lucasantos77/capital_market_explorer/blob/master/backtesting/Multfactor_Momentum_LowVol/Momentum_LowVolatility_12_meses_IBRX100.ipynb)
+
+2 - [Hierarchical Risk Parity (HRP) versus equal weighted strategy with a momentum portifolio rolling selected](https://github.com/Lucasantos77/capital_market_explorer/blob/master/backtesting/Hierarchical_risk_parity/HRP_and_momentum_Opt.ipynb)
